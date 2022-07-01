@@ -19,7 +19,7 @@ int main()
     dq.push_back(5);
     dq.push_front(0);
 
-    // printing the deque
+//     printing the deque.
     for (auto i : dq)
         cout << i << " ";
     cout << endl<<endl;
