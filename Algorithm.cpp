@@ -52,7 +52,7 @@ int main()
     for (auto i : v)
         cout << i << " ";
     cout << endl;
-
+// 
     // rotate - it will rotate by provided position
     cout << "Before rotating vector : ";
     for (auto i : v)
